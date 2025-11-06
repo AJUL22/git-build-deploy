@@ -83,7 +83,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://github.com/AJUL22/git-build-deploy.git</url>
+            <url>>https://maven.pkg.github.com/AJUL22/git-build-deploy</url>
         </repository>
     </distributionManagement>
 
