@@ -84,4 +84,3 @@ jobs:
 
       - name: Deploy package to GitHub Packages
         run: mvn -B deploy --settings $HOME/.m2/settings.xml
-EOF
